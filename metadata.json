@@ -1,0 +1,5 @@
+{
+  "name": "User Management Dashboard",
+  "description": "Production-grade user management dashboard with full CRUD, RTK Query caching, responsive table and grid views, search, and accessible modal workflows.",
+  "requestFramePermissions": [] 
+}
